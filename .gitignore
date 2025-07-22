@@ -1,1 +1,10 @@
-"__pycache__/ *.pyc *.pyo build/ dist/ *.exe *.spec venv/" 
+# Build artifacts
+build/
+dist/
+*.exe
+*.spec
+
+# Python junk
+__pycache__/
+*.pyc
+*.pyo
