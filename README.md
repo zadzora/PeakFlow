@@ -1,3 +1,5 @@
+https://github.com/your-username/your-repo/releases/latest/download/PeakFlow.exe
+
 🎧 PeakFlow – Simple Audio Volume Capper for Windows
 PeakFlow is a lightweight and beginner-friendly tool that lets you easily limit or "cap" the loudness of audio coming from your computer. It's especially useful when watching movies or listening to media late at night — no more sudden loud explosions or jumpscares waking up the whole house!
 
@@ -16,12 +18,6 @@ Other audio tools are often overloaded with complex sliders and settings. PeakFl
 
 💾 Portable: Just a few files—no installer needed.
 
-📦 Files Included
-PeakFlow.py – the main application
-
-logo.png – used as the app window icon
-
-logo.ico – can be used for Windows shortcut or distribution
 
 🚀 Getting Started
 Install VB-Audio Virtual Cable (required for capturing system audio).
